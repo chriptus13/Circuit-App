@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Circuito</string>
+    <string name="level">"Nível "</string>
+    <string name="noMoreLvl">Não há mais níveis</string>
+    <string name="winnerMsg_1">"Parabéns: Nível "</string>
+    <string name="winnerMsg_2">" bem resolvido"</string>
+    <string name="next_level">Próximo nível</string>
+    <string name="selectLevel">Lista de Níveis</string>
+    <string name="closeGame">Deseja terminar o jogo?</string>
+    <string name="yes">sim</string>
+    <string name="no">não</string>
+    <string name="Congratulations">Parabéns</string>
+    <string name="playerName">Qual é o teu nome?</string>
+    <string name="done">Feito</string>
+    <string name="cancel">Cancelo</string>
+    <string name="scoreboard">Pontuações</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+    <string name="levelList">Lista de Níveis</string>
+</resources>

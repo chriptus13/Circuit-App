@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Circuit</string>
+    <string name="level">Level </string>
+    <string name="noMoreLvl">No more levels</string>
+    <string name="winnerMsg_1">Cool: Level </string>
+    <string name="winnerMsg_2"> solved</string>
+    <string name="next_level">Next Level</string>
+    <string name="selectLevel">Levels List</string>
+    <string name="closeGame">Do you want to exit the game?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="Congratulations">Congratulations</string>
+    <string name="playerName">What is your name?</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
